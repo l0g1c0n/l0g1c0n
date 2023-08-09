@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @l0g1c0n
+- 👀 I’m interested in Mashine learning/deep learning
+- 🌱 I’m currently learning pytorch and what it has to offer
+- 💞️ I’m looking to collaborate on mashine learning projects
+- 📫 How to reach me iceneoon@gmail.com/ discord: logicon#6278
+
+<!---
+l0g1c0n/l0g1c0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
