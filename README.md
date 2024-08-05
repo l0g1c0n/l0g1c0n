@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @l0g1c0n
-- 👀 I’m interested in Mashine learning/deep learning
+- 👀 I’m interested in Mashine learning/deep learning. go + docker
 - 🌱 I’m currently learning pytorch and what it has to offer
-- 💞️ I’m looking to collaborate on mashine learning projects
 - 📫 How to reach me kacperwiacek05@gmail.com/ discord: logicon#6278
 
 <!---
