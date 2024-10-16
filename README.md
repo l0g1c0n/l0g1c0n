@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l0g1c0n
+- 👋 Hi, I’m Kacper Wiącek
 - 👀 I’m interested in Mashine learning/deep learning. go + docker
 - 🌱 I’m currently learning pytorch and what it has to offer
 - 📫 How to reach me kacperwiacek05@gmail.com/ discord: logicon#6278
